@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafam\\Desktop\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {}
+    "C:\\Users\\rafam\\Desktop\\Senai 2DM\\Sprint 02 - Back-End\\Aula 30 - 19.04 - InLock\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafam\\Desktop\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {
+    "C:\\Users\\rafam\\Desktop\\Senai 2DM\\Sprint 02 - Back-End\\Aula 30 - 19.04 - InLock\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafam\\Desktop\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
+        "projectUniqueName": "C:\\Users\\rafam\\Desktop\\Senai 2DM\\Sprint 02 - Back-End\\Aula 30 - 19.04 - InLock\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
         "projectName": "senai.inlock.webApi.",
-        "projectPath": "C:\\Users\\rafam\\Desktop\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
+        "projectPath": "C:\\Users\\rafam\\Desktop\\Senai 2DM\\Sprint 02 - Back-End\\Aula 30 - 19.04 - InLock\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
         "packagesPath": "C:\\Users\\rafam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafam\\Desktop\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\obj\\",
+        "outputPath": "C:\\Users\\rafam\\Desktop\\Senai 2DM\\Sprint 02 - Back-End\\Aula 30 - 19.04 - InLock\\Projeto InLock\\Code\\senai.inlock.webApi\\senai.inlock.webApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.3, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
